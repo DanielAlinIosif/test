@@ -10,7 +10,7 @@ body {
     margin: 0;
 }
 
-.display-container {
+#display-container {
     background-color:blue ;
 }
 
