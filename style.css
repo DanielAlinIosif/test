@@ -5,13 +5,18 @@ box-sizing: border-box;
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', 'Muli' sans-serif;
     overflow: hidden;
     margin: 0;
+    padding: auto;
 }
 
-#display-container {
-    background-color:blue ;
+header {
+    background-color: rgb(0, 247, 255);
+}
+
+.display-container {
+    background-color:rgb(0, 255, 149) ;
 }
 
 
